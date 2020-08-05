@@ -14,7 +14,7 @@ module Constants
         Talk.new("Scaling Rails for Black Friday", 45),
         Talk.new("Docker isn't just for deployment",30),
         Talk.new("Callbacks in Rails", 30),
-        Talk.new("Microservices, a bittersweet symphony", 45)
+        Talk.new("Microservices, a bittersweet symphony", 45),
         Talk.new("Teaching github for poets", 60),
         Talk.new("Test Driving your Rails Infrastucture with Chef", 60),
         Talk.new("SVG charts and graphics with Ruby", 45),

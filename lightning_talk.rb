@@ -1,4 +1,4 @@
-reuire_relative 'talk'
+require_relative 'talk'
 
 class LightningTalk < Talk
 
